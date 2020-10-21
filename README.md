@@ -3,7 +3,7 @@
 
 Welcome folks, Thank you for applying for this internship and we are super excited to take this conversation ahead with you.
 
-But before we go ahead, we would like you to go thru a small assestment, which will help us to evaluate you better on technical skills and working styles.
+But before we go ahead, we would like you to go thru a small assessment, which will help us to evaluate you better on technical skills and working styles.
 
 
 ## Task Objective :
@@ -29,6 +29,6 @@ The assignments needs to be completed in 1 week from today. <br>
 If you have any issue then feel free to create issue on this [repository](https://github.com/geniusai-research/interns_task/) or reachout to us over the internshala chat.
 
 <hr>
-Good Luck <br>
-RK  <br>
-Cheers!!!
+
+Cheers!!!  <br>
+RK 
